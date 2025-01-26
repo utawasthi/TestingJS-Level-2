@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# Environment Variables
+.env
+
+# Build Output
+dist/
+build/
+*.js
+*.js.map
+*.d.ts
+
+# Jest
+coverage/
+.jest/
+
+# Temporary Files
+*.tmp
+*.temp
+
+# IDE/Editor-Specific Files
+.vscode/
+*.code-workspace
+.idea/
+*.sublime-*
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
